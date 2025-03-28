@@ -62,3 +62,8 @@
     <h2>Prediction: {prediction}</h2>
   </div>
 {/if}
+
+<div class="bg-red-500 !important text-white !important p-4">
+  Tailwind Test
+</div>
+
